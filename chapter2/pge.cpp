@@ -13,10 +13,10 @@ int main()
     int months = 0;
     cout << "Enter balance owed: ";
     cin >> balance;
-    cout << "\n Enter interest per month in %: ";
+    cout << "Enter interest per month in %: ";
     cin >> interest;
     interest *= .01;
-    cout << "\n Enter balanced owed limit: ";
+    cout << "Enter balanced owed limit: ";
     cin >> limit;
 
     while (balance < limit)
@@ -25,6 +25,6 @@ int main()
         months++;
     }
 
-    cout << "\n Number of months until limit is reached: " << months;
+    cout << "\nNumber of months until limit is reached: " << months;
     return 0;
 }
