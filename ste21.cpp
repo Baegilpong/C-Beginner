@@ -1,6 +1,6 @@
-//File Name: ste22.cpp
+//File Name: ste21.cpp
 //Author: Phong N
-//Description: Self-Test Excersises 22 for Problem_Solving_with_C++_(9th_Savitch) chapter 2 page 83
+//Description: Self-Test Excersises 21 for Problem_Solving_with_C++_(9th_Savitch) chapter 2 page 83
 //Generates a random number between 0 and 200
 //if the number is greater than 100, output High
 //if the number is less than 100, output Low
