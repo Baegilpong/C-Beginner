@@ -25,7 +25,7 @@ int main()
     else
         cout << "Bankrupt\n";
 
-    // cout << savings << " " << expenses;
+    // cout << "savings: " << savings << endl << "expenses: " << expenses;
 
     return 0;
 }
