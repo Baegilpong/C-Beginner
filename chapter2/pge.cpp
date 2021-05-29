@@ -25,6 +25,7 @@ int main()
         months++;
     }
 
-    cout << "\nNumber of months until limit is reached: " << months;
+    cout << "Number of months until limit is reached: " << months;
+    cout << "\nThe balance will be: $" << balance;
     return 0;
 }
