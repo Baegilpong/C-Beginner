@@ -1,6 +1,8 @@
 //File Name: pge.cpp
 //Author: Phong N
 //Description: Programming Example for Problem_Solving_with_C++_(9th_Savitch) chapter 2 page 89
+//Gets balance owed of credit card, interest per month as a %, and balance limit.
+//Calculates how many months will pass until the balance reaches the balance limit.
 
 #include <iostream>
 using namespace std;
