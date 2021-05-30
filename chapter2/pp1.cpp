@@ -13,7 +13,7 @@ the dieter (use 45400 grams for a 100 pound person). Assume that the
 lethal dose for a mouse is proportional to the lethal dose for the human.
 A single can of soda pop has a mass of 350 grams. To ensure the safety of
 your friend, be sure the program requests the weight at which the dieter
-will stop dieting, rather than the dieter’s current weight. Assume that diet
+will stop dieting, rather than the dieterâ€™s current weight. Assume that diet
 soda contains 1/10th of 1% artificial sweetener. Use a variable declaration
 with the modifier const to give a name to this fraction. You may want to
 express the percent as the double value 0.001. Your program should allow
