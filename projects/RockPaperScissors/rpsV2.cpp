@@ -20,7 +20,7 @@ int main()
 
 	do
 	{
-		cout << "\nPlease select an option:\n1 to start game\n2 to see player statistics(under construction)\n";
+		cout << "\nPlease select an option:\n1 to start game\n2 to see player statistics\n";
 		int choice;
 		cin >> choice; 
 		if (choice == 1)
