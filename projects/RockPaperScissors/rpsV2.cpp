@@ -1,7 +1,7 @@
-//File Name: rps.cpp
+//File Name: rpsV2.cpp
 //Author: Phong N
-//Description: Programming Project for Problem_Solving_with_C++_(9th_Savitch) chapter 3 page 172
-//Rock Paper Scissor 2 player game
+//Description: Rock Paper Scissors game Version 2
+//Rock Paper Scissor 2-player game
 //Rock beats scissors
 //Scissors beats paper
 //Paper beats rock
