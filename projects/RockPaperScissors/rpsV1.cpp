@@ -1,4 +1,4 @@
-//File Name: rps.cpp
+//File Name: rpsV1.cpp
 //Author: Phong N
 //Description: Rock Paper Scissors game Version 1
 //Rock Paper Scissor 2-player game
