@@ -42,9 +42,9 @@ int main()
 				{
 					//player1 selects rock
 					if ((player1 == 'r' || player1 == 'R') && (player2 == 'p' || player2 == 'P'))
-						cout << "Player 1 Wins!\n";
-					else if ((player1 == 'r' || player1 == 'R') && (player2 == 's' || player2 == 'S'))
 						cout << "Player 2 Wins!\n";
+					else if ((player1 == 'r' || player1 == 'R') && (player2 == 's' || player2 == 'S'))
+						cout << "Player 1 Wins!\n";
 					else if (((player1 == 'r') || (player1 == 'R')) && ((player2 == 'r') || (player2 == 'R')))
 						cout << "It's a Tie!\n";
 
