@@ -19,6 +19,7 @@ with the modifier const to give a name to this fraction. You may want to
 express the percent as the double value 0.001. Your program should allow
 the calculation to be repeated as often as the user wishes.
 */
+
 #include <iostream>
 using namespace std;
 
