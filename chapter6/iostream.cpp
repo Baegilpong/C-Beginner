@@ -23,6 +23,8 @@ int main()
     out_stream << "first number = " << num1
                << "\nsecond number = " << num2
                << "\nthird number = " << num3;
-
+    
+    in_stream.close();
+    out_stream.close();
     return 0;
 }
